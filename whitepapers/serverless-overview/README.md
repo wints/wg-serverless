@@ -864,7 +864,7 @@ In addition to providing a way to specify function interaction (often with a vis
 
 The workflow tool might also provide historic data from all prior executions of the workflow, documenting which branches were taken, which data was referenced for a decision to take a certain branch, and so on. This data can be used as an audit log (for example, in industries with strict regulatory requirements) or to analyze and improve performance of the multi-function workflow.
 
-Esentri, a software consultancy, [built a proof-of-concept with Fn Project and Zeebe to demonstrate how to orchestrate serverless functions with a horizontally-scalable workflow engine](https://www.esentri.com/zeebe-and-fn-project-integrated-a-proof-of-concept/). 
+Esentri, a software consultancy, [built a proof-of-concept with Fn Project and Zeebe to demonstrate how to orchestrate serverless functions with a horizontally-scalable workflow engine](https://www.esentri.com/zeebe-and-fn-project-integrated-a-proof-of-concept/).
 
 # Conclusion
 
